@@ -32,6 +32,8 @@ In case if your unable to follow all steps, I have added ready code for both a s
 
 This picture shows a sample chatbot created for website electrosolutions.net
 
+<img src="img/electrosolution.JPG">
+
 Here all the images are related to electrosolutions.in website for reference I have used it(which is one of my designed website only).
 The other references are w3school.com
 This article is only for education purpose.
